@@ -1,0 +1,75 @@
+{
+  "effect.potionsnstuff.infested": "Infestação",
+  "effect.potionsnstuff.oozing": "Pegajoso",
+  "effect.potionsnstuff.saturation": "Saturação",
+  "effect.potionsnstuff.blessed": "Abençoado",
+
+  "item.minecraft.potion.effect.infested": "Poção de infestação",
+  "item.minecraft.splash_potion.effect.infested": "Poção arremessável de infestação",
+  "item.minecraft.lingering_potion.effect.infested": "Poção prolongada de infestação",
+  "item.minecraft.tipped_arrow.effect.infested": "Flecha de infestação",
+
+  "item.minecraft.potion.effect.haste": "Poção de pressa",
+  "item.minecraft.splash_potion.effect.haste": "Poção arremessável de pressa",
+  "item.minecraft.lingering_potion.effect.haste": "Poção prolongada de pressa",
+  "item.minecraft.tipped_arrow.effect.haste": "Flecha de pressa",
+
+  "item.minecraft.potion.effect.glowing": "Poção de brilho",
+  "item.minecraft.splash_potion.effect.glowing": "Poção arremessável de brilho",
+  "item.minecraft.lingering_potion.effect.glowing": "Poção prolongada de brilho",
+  "item.minecraft.tipped_arrow.effect.glowing": "Flecha de brilho",
+
+  "item.minecraft.potion.effect.nausea": "Poção de náusea",
+  "item.minecraft.splash_potion.effect.nausea": "Poção arremessável de náusea",
+  "item.minecraft.lingering_potion.effect.nausea": "Poção prolongada de naúsea",
+  "item.minecraft.tipped_arrow.effect.nausea": "Flecha de náusea",
+
+  "item.minecraft.potion.effect.mining_fatigue": "Poção de exaustão",
+  "item.minecraft.splash_potion.effect.mining_fatigue": "Poção arremessável de exaustão",
+  "item.minecraft.lingering_potion.effect.mining_fatigue": "Poção prolongada de exaustão",
+  "item.minecraft.tipped_arrow.effect.mining_fatigue": "Flecha de exaustão",
+
+  "item.minecraft.potion.effect.decay": "Poção de decomposição",
+  "item.minecraft.splash_potion.effect.decay": "Poção arremessável de decomposição",
+  "item.minecraft.lingering_potion.effect.decay": "Poção prolongada de decomposição",
+  "item.minecraft.tipped_arrow.effect.decay": "Flecha de decomposição",
+
+  "item.minecraft.potion.effect.absorption": "Poção de absorção",
+  "item.minecraft.splash_potion.effect.absorption": "Poção arremessável de absorção",
+  "item.minecraft.lingering_potion.effect.absorption": "Poção prolongada de absorção",
+  "item.minecraft.tipped_arrow.effect.absorption": "Flecha de absorção",
+
+  "item.minecraft.potion.effect.hunger": "Poção de fome",
+  "item.minecraft.splash_potion.effect.hunger": "Poção arremessável de fome",
+  "item.minecraft.lingering_potion.effect.hunger": "Poção prolongada de fome",
+  "item.minecraft.tipped_arrow.effect.hunger": "Flecha de fome",
+
+  "item.minecraft.potion.effect.levitation": "Poção de levitação",
+  "item.minecraft.splash_potion.effect.levitation": "Poção arremessável de levitação",
+  "item.minecraft.lingering_potion.effect.levitation": "Poção prolongada de levitação",
+  "item.minecraft.tipped_arrow.effect.levitation": "Flecha de levitação",
+
+  "item.minecraft.potion.effect.blindness": "Poção de cegueira",
+  "item.minecraft.splash_potion.effect.blindness": "Poção arremessável de cegueira",
+  "item.minecraft.lingering_potion.effect.blindness": "Poção prolongada de cegueira",
+  "item.minecraft.tipped_arrow.effect.blindness": "Flecha de cegueira",
+
+  "item.minecraft.potion.effect.resistance": "Poção de resistência",
+  "item.minecraft.splash_potion.effect.resistance": "Poção arremessável de resistência",
+  "item.minecraft.lingering_potion.effect.resistance": "Poção prolongada de resistência",
+  "item.minecraft.tipped_arrow.effect.resistance": "Flecha de resistência",
+
+  "item.minecraft.potion.effect.saturation": "Poção de saturação",
+  "item.minecraft.splash_potion.effect.saturation": "Poção arremessável de saturação",
+  "item.minecraft.lingering_potion.effect.saturation": "Poção prolongada de saturação",
+  "item.minecraft.tipped_arrow.effect.saturation": "Flecha de saturação",
+
+  "item.minecraft.potion.effect.oozing": "Poção pegajosa",
+  "item.minecraft.splash_potion.effect.oozing": "Poção arremessável pegajosa",
+  "item.minecraft.lingering_potion.effect.oozing": "Poção prolongada pegajosa",
+  "item.minecraft.tipped_arrow.effect.oozing": "Flecha pegajosa",
+
+  "item.minecraft.potion.effect.holy_water": "Água benta",
+  "item.minecraft.splash_potion.effect.holy_water": "Água benta arremessável",
+  "item.minecraft.lingering_potion.effect.holy_water": "Água benta prolongada"
+}

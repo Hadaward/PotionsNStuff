@@ -1,0 +1,75 @@
+{
+  "effect.potionsnstuff.infested": "Infested",
+  "effect.potionsnstuff.oozing": "Oozing",
+  "effect.potionsnstuff.saturation": "Saturation",
+  "effect.potionsnstuff.blessed": "Blessed",
+
+  "item.minecraft.potion.effect.infested": "Potion of Infestation",
+  "item.minecraft.splash_potion.effect.infested": "Splash Potion of Infestation",
+  "item.minecraft.lingering_potion.effect.infested": "Lingering Potion of Infestation",
+  "item.minecraft.tipped_arrow.effect.infested": "Arrow of Infestation",
+
+  "item.minecraft.potion.effect.haste": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.haste": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.haste": "Lingering Potion of Haste",
+  "item.minecraft.tipped_arrow.effect.haste": "Arrow of Haste",
+
+  "item.minecraft.potion.effect.glowing": "Potion of Glow",
+  "item.minecraft.splash_potion.effect.glowing": "Splash Potion of Glow",
+  "item.minecraft.lingering_potion.effect.glowing": "Lingering Potion of Glow",
+  "item.minecraft.tipped_arrow.effect.glowing": "Arrow of Glow",
+
+  "item.minecraft.potion.effect.nausea": "Potion of Nausea",
+  "item.minecraft.splash_potion.effect.nausea": "Splash Potion of Nausea",
+  "item.minecraft.lingering_potion.effect.nausea": "Lingering Potion of Nausea",
+  "item.minecraft.tipped_arrow.effect.nausea": "Arrow of Nausea",
+
+  "item.minecraft.potion.effect.mining_fatigue": "Potion of Mining Fatigue",
+  "item.minecraft.splash_potion.effect.mining_fatigue": "Splash Potion of Mining Fatigue",
+  "item.minecraft.lingering_potion.effect.mining_fatigue": "Lingering Potion of Mining Fatigue",
+  "item.minecraft.tipped_arrow.effect.mining_fatigue": "Arrow of Mining Fatigue",
+
+  "item.minecraft.potion.effect.decay": "Potion of Decay",
+  "item.minecraft.splash_potion.effect.decay": "Splash Potion of Decay",
+  "item.minecraft.lingering_potion.effect.decay": "Lingering Potion of Decay",
+  "item.minecraft.tipped_arrow.effect.decay": "Arrow of Mining Decay",
+
+  "item.minecraft.potion.effect.absorption": "Potion of Absorption",
+  "item.minecraft.splash_potion.effect.absorption": "Splash Potion of Absorption",
+  "item.minecraft.lingering_potion.effect.absorption": "Lingering Potion of Absorption",
+  "item.minecraft.tipped_arrow.effect.absorption": "Arrow of Mining Absorption",
+
+  "item.minecraft.potion.effect.hunger": "Potion of Hunger",
+  "item.minecraft.splash_potion.effect.hunger": "Splash Potion of Hunger",
+  "item.minecraft.lingering_potion.effect.hunger": "Lingering Potion of Hunger",
+  "item.minecraft.tipped_arrow.effect.hunger": "Arrow of Mining Hunger",
+
+  "item.minecraft.potion.effect.levitation": "Potion of Levitation",
+  "item.minecraft.splash_potion.effect.levitation": "Splash Potion of Levitation",
+  "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
+  "item.minecraft.tipped_arrow.effect.levitation": "Arrow of Mining Levitation",
+
+  "item.minecraft.potion.effect.blindness": "Potion of Blindness",
+  "item.minecraft.splash_potion.effect.blindness": "Splash Potion of Blindness",
+  "item.minecraft.lingering_potion.effect.blindness": "Lingering Potion of Blindness",
+  "item.minecraft.tipped_arrow.effect.blindness": "Arrow of Mining Blindness",
+
+  "item.minecraft.potion.effect.resistance": "Potion of Resistance",
+  "item.minecraft.splash_potion.effect.resistance": "Splash Potion of Resistance",
+  "item.minecraft.lingering_potion.effect.resistance": "Lingering Potion of Resistance",
+  "item.minecraft.tipped_arrow.effect.resistance": "Arrow of Mining Resistance",
+
+  "item.minecraft.potion.effect.saturation": "Potion of Saturation",
+  "item.minecraft.splash_potion.effect.saturation": "Splash Potion of Saturation",
+  "item.minecraft.lingering_potion.effect.saturation": "Lingering Potion of Saturation",
+  "item.minecraft.tipped_arrow.effect.saturation": "Arrow of Mining Saturation",
+
+  "item.minecraft.potion.effect.oozing": "Potion of Oozing",
+  "item.minecraft.splash_potion.effect.oozing": "Splash Potion of Oozing",
+  "item.minecraft.lingering_potion.effect.oozing": "Lingering Potion of Oozing",
+  "item.minecraft.tipped_arrow.effect.oozing": "Arrow of Mining Oozing",
+
+  "item.minecraft.potion.effect.holy_water": "Holy Water",
+  "item.minecraft.splash_potion.effect.holy_water": "Throwable Holy Water",
+  "item.minecraft.lingering_potion.effect.holy_water": "Lingering Holy Water"
+}
